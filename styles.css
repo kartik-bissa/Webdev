@@ -1,0 +1,21 @@
+body{
+display:flex;
+justify-content:center;
+align-items:center;
+height:100vh;
+}
+.box{
+width:400px;
+height:570px;
+padding:10px;
+border:5px solid black;
+position:relative;
+display:flex;
+justify-content:center;
+align-items:center;
+border-radius:10px;}
+.photo{
+width:30px;
+height:30px;
+border-radius:50%;
+}

@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Login</title>
+
+</head>
+<body>
+<body style="background-color:#b5e5e7"></style>
+<h1 ALIGN="CENTER">GCOEN</h1>
+<h2><u>Enter your user name and password</u></h2><hr><br>
+<b>USERNAME:</b>
+<input type="text" id="name" name="name">
+<br>
+<br>
+<b>PASSWORD:</b>
+<input type="password" id="pass" name="pass"><br><br>
+<input type="button" value="LOGIN">
+<input type="reset" value="Reset">
+</body>
+</html>

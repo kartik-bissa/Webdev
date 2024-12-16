@@ -1,0 +1,27 @@
+body{
+background-color:#7c1d48;}
+.navi{
+display:flex;
+align-items:center;
+list-style-type:none;
+align-items:center;
+justify-content:flex-end;
+  padding-left: 0;        
+  margin: 0;}
+.navi li {font-size:20px;
+  margin-left: 20px;}
+.navi a {
+  text-decoration: none;   
+  color: #000;              
+  font-size: 30px; 
+color:white;}
+.navi a:hover {
+  color: #0deabf;}
+h1{font-size:80px;
+color:white;}
+.sb{
+width:250px;
+height:30px;
+border-radius:5px;
+
+}
